@@ -1,5 +1,5 @@
 # Aditya Arakeri
-## Lead QA Engineer
+Lead QA Engineer
 
 # About Me
 Hey this is Aditya Arakeri, but folks call me Adi. I am an aggressive problem solver with a passion for seeking out new challenges. I started out as a Test Engineer at Infosys in 2006, where i learned how to thrive and grow in an extremely fast and continuous developing environment. I am currently part of the awesome team at Apple working on the apple.com website as a Lead QA Engineer, being a contributor and a productive member.
