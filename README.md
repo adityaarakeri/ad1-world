@@ -1,17 +1,17 @@
 # Aditya Arakeri
-![Aditya](/images/me.png)
+## Lead QA Engineer
 
 # About Me
 Hey this is Aditya Arakeri, but folks call me Adi. I am an aggressive problem solver with a passion for seeking out new challenges. I started out as a Test Engineer at Infosys in 2006, where i learned how to thrive and grow in an extremely fast and continuous developing environment. I am currently part of the awesome team at Apple working on the apple.com website as a Lead QA Engineer, being a contributor and a productive member.
 
 # Technical Profeciency
-|--------|------------------------------------------------|
-| Platforms: | UNIX, Windows, Mac OSX, iOS 7 & above, Android |
-| Languages: | Node, Python, Unix (Bash), HTML, CSS, JavaScript |
-| Frameworks: | Mocha, Cucumber, Jasmine, BDD |
-| Models: | Agile, Scrum, Waterfall |
-| Testing: | Mobile, iOS, Android, Direct Marketing Email, Manual, Functional, Video Analytics, Web Analytics, Test Scenario Identifications, Root Cause Analysis 
-| Tools: | Git, Github, Xcode, Subversion, Soap UI, Jira, Jenkins, Docker, Cron, Radar, Quality Center, Espresso, Quick Test Professional, Mantis, Test Link, Microsoft Office, Numbers, Charles Proxy, omniture debugger |
+
+- Platforms: UNIX, Windows, Mac OSX, iOS 7 & above, Android 
+- Languages: Node, Python, Unix (Bash), HTML, CSS, JavaScript 
+- Frameworks: Mocha, Cucumber, Jasmine, BDD 
+- Models: Agile, Scrum, Waterfall 
+- Testing: Mobile, iOS, Android, Direct Marketing Email, Manual, Functional, Video Analytics, Web Analytics, Test Scenario Identifications, Root Cause Analysis 
+- Tools: Git, Github, Xcode, Subversion, Soap UI, Jira, Jenkins, Docker, Cron, Radar, Quality Center, Espresso, Quick Test Professional, Mantis, Test Link, Microsoft Office, Numbers, Charles Proxy, omniture debugger 
 
 # Experience
 ## Hogarth California, Sunnyvale, California
