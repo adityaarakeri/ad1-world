@@ -6,12 +6,12 @@ Hey this is Aditya Arakeri, but folks call me Adi. I am an aggressive problem so
 
 # Technical Profeciency
 
-- Platforms: UNIX, Windows, Mac OSX, iOS 7, Android 
-- Languages: Node, Python, Unix (Bash), HTML, CSS, JavaScript 
+- Platforms: UNIX, Windows, Mac OSX, iOS, Android 
+- Languages: Node, Python, Unix (Bash), HTML, CSS, JavaScript, Swift, Apple Script
 - Frameworks: Mocha, Cucumber, Jasmine, BDD, 
 - Models: Agile, Scrum, Waterfall 
-- Testing: Mobile, iOS, Android, Direct Marketing Email, Manual, Functional, Video Analytics, Web Analytics, Test Scenario Identifications, Root Cause Analysis 
-- Tools: Git, Github, Xcode, Subversion, Soap UI, Jira, Jenkins, Docker, Cron, Radar, Quality Center, Espresso
+- Testing: Api, Mobile, iOS, Android, Direct Marketing Email, Functional, Video Analytics, Web Analytics
+- Tools: Git, Github, Xcode, Subversion, Soap UI, Jira, Jenkins, Docker, Cron, Radar, Quality Center, Espresso, MongoDB, Photoshop
 
 # Experience
 ## Hogarth California, Sunnyvale, California
