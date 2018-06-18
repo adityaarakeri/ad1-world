@@ -11,7 +11,7 @@ Hey this is Aditya Arakeri, but folks call me Adi. I am an aggressive problem so
 - Frameworks: Mocha, Cucumber, Jasmine, BDD, 
 - Models: Agile, Scrum, Waterfall 
 - Testing: Api, Mobile, iOS, Android, Direct Marketing Email, Functional, Video Analytics, Web Analytics
-- Tools: Git, Github, Xcode, Subversion, Soap UI, Jira, Jenkins, Docker, Cron, Radar, Quality Center, Espresso, MongoDB, Photoshop
+- Tools: Git, Github, Gulp, Grunt, Xcode, Subversion, Soap UI, Jira, Jenkins, Docker, Cron, Radar, Quality Center, Espresso, MongoDB, Photoshop
 
 # Experience
 ## Hogarth California, Sunnyvale, California
