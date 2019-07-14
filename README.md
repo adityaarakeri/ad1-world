@@ -9,7 +9,7 @@ Currently part of Shape Security, working in the Research & Engineering departme
 # Technical Profeciency
 - Platforms: Mac OSX, Linux, Windows, iOS, Android 
 - Languages: Node, Python, Unix (Bash), HTML, CSS, JavaScript, Swift, Apple Script
-- Frameworks: Mocha, Cucumber, Jasmine, BDD
+- Frameworks: Flask, Django, Pytest, Airflow, Mocha, Cucumber, Jasmine, BDD
 - Tools: Git, Github, Gulp, Grunt, Xcode, Subversion,Postman, Soap UI, Jira, Jenkins, Docker, Cron, MongoDB, Photoshop, charles Proxy
 
 # Experience
