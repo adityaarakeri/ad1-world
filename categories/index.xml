@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Website of Aditya Arakeri</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on Website of Aditya Arakeri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>crypto</title>
+      <link>https://example.com/categories/crypto/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cryptography</title>
+      <link>https://example.com/categories/cryptography/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://example.com/categories/development/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://example.com/categories/github/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hacktoberfest</title>
+      <link>https://example.com/categories/hacktoberfest/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/hacktoberfest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
