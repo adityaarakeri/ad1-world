@@ -17,7 +17,8 @@
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://adityaarakeri.github.io/post/krypter/</guid>
-      <description>&lt;p&gt;A node wrapper around the native crypto module which uses the below capabilities&lt;/p&gt;
+      <description>&lt;hr&gt;
+&lt;p&gt;A node wrapper around the native crypto module which uses the below capabilities&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Algorithm: aes-256-cbc&lt;/li&gt;
 &lt;li&gt;default key and iv generation&lt;/li&gt;
@@ -33,7 +34,8 @@
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>http://adityaarakeri.github.io/post/hacktoberfest2019/</guid>
-      <description>&lt;p&gt;made significant contributions to open source in the year 2019&lt;/p&gt;</description>
+      <description>&lt;hr&gt;
+&lt;p&gt;made significant contributions to open source in the year 2019&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -51,7 +53,8 @@
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://adityaarakeri.github.io/post/hacktoberfest2018/</guid>
-      <description>&lt;p&gt;2018 was my first hacktoberfest, was super exited to be contributing to open source.&lt;/p&gt;</description>
+      <description>&lt;hr&gt;
+&lt;p&gt;2018 was my first hacktoberfest, was super exited to be contributing to open source.&lt;/p&gt;</description>
     </item>
     
   </channel>
