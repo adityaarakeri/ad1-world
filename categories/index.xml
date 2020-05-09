@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Website of Aditya Arakeri</title>
-    <link>http://adityaarakeri.github.io/categories/</link>
+    <link>https://adityaarakeri.github.io/categories/</link>
     <description>Recent content in Categories on Website of Aditya Arakeri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://adityaarakeri.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adityaarakeri.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>crypto</title>
-      <link>http://adityaarakeri.github.io/categories/crypto/</link>
+      <link>https://adityaarakeri.github.io/categories/crypto/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://adityaarakeri.github.io/categories/crypto/</guid>
+      <guid>https://adityaarakeri.github.io/categories/crypto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cryptography</title>
-      <link>http://adityaarakeri.github.io/categories/cryptography/</link>
+      <link>https://adityaarakeri.github.io/categories/cryptography/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://adityaarakeri.github.io/categories/cryptography/</guid>
+      <guid>https://adityaarakeri.github.io/categories/cryptography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://adityaarakeri.github.io/categories/development/</link>
+      <link>https://adityaarakeri.github.io/categories/development/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://adityaarakeri.github.io/categories/development/</guid>
+      <guid>https://adityaarakeri.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>http://adityaarakeri.github.io/categories/github/</link>
+      <link>https://adityaarakeri.github.io/categories/github/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://adityaarakeri.github.io/categories/github/</guid>
+      <guid>https://adityaarakeri.github.io/categories/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hacktoberfest</title>
-      <link>http://adityaarakeri.github.io/categories/hacktoberfest/</link>
+      <link>https://adityaarakeri.github.io/categories/hacktoberfest/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://adityaarakeri.github.io/categories/hacktoberfest/</guid>
+      <guid>https://adityaarakeri.github.io/categories/hacktoberfest/</guid>
       <description></description>
     </item>
     
